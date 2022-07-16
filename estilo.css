@@ -1,0 +1,11 @@
+table {
+    border: 1px solid black;
+}
+
+.contenedor {
+    display:block;
+}
+
+.subcontenedor {
+    display:flex;
+}
