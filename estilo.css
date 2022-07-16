@@ -7,5 +7,5 @@ table {
 }
 
 .subcontenedor {
-    display:flex;
+    display:grid;
 }
